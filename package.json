@@ -1,0 +1,16 @@
+{
+  "name": "jsdoc-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "bugs": {
+    "url": "https://github.com/gyu85/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
